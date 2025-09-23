@@ -43,6 +43,8 @@ horoscope-calculator/
 ├── index.html          # Main HTML structure
 ├── css/
 │   └── style.css       # Styling and layout
+├── images/
+│   └── demo.png       # image of the demo
 ├── js/
 │   └── main.js         # JavaScript logic
 └── README.md           # This file
