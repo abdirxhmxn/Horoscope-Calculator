@@ -6,7 +6,7 @@ Users enter their birth month, day, and year to instantly find out their zodiac 
 ---
 
 ## 📸 Demo
-![Horoscope Demo](./demo.png)
+![Horoscope Demo](./images/demo.png)
 
 ---
 
@@ -19,7 +19,7 @@ Users enter their birth month, day, and year to instantly find out their zodiac 
 ---
 
 ## 📂 Project Structure
-
+```plaintext
 ├── index.html        # Main HTML structure:contentReference[oaicite:1]{index=1}
 ├── css/
 │   └── style.css     # Styling for layout and design:contentReference[oaicite:2]{index=2}
